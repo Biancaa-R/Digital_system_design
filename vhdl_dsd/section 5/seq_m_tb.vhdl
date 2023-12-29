@@ -31,7 +31,7 @@ reset=>reset,
 output => output
 );
 
-clk_process : process
+clk_process: process
 begin
 clk<='0';
 wait for clk_period/2;
