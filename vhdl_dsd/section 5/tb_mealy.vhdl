@@ -90,7 +90,7 @@ wait for 20 ns;
 din <= '1';
 end process;
 
-END behavior;
+END ;
 
 
 
