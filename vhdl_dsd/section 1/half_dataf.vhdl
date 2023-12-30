@@ -15,5 +15,5 @@ architecture Dataflow of half_add is
     begin
     sum<= a xor b;
     carry <= a and b;
-    end dataflow;
+    end Dataflow;
    
