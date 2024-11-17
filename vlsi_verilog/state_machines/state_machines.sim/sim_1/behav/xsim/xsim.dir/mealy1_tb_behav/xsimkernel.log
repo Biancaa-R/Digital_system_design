@@ -1,0 +1,4 @@
+Running: xsim.dir/mealy1_tb_behav/xsimk.exe -simmode gui -wdb mealy1_tb_behav.wdb -simrunnum 0 -socket 56040
+Design successfully loaded
+Design Loading Memory Usage: 9092 KB (Peak: 9092 KB)
+Design Loading CPU Usage: 15 ms
