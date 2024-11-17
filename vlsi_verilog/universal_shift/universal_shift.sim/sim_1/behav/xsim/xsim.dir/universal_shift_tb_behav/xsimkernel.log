@@ -1,0 +1,4 @@
+Running: xsim.dir/universal_shift_tb_behav/xsimk.exe -simmode gui -wdb universal_shift_tb_behav.wdb -simrunnum 0 -socket 54400
+Design successfully loaded
+Design Loading Memory Usage: 9096 KB (Peak: 9096 KB)
+Design Loading CPU Usage: 30 ms
