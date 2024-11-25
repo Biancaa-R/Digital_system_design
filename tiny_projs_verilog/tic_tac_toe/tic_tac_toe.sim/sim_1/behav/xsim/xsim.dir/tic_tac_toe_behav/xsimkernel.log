@@ -1,0 +1,7 @@
+Running: xsim.dir/tic_tac_toe_behav/xsimk.exe -simmode gui -wdb tic_tac_toe_behav.wdb -simrunnum 0 -socket 61874
+Design successfully loaded
+Design Loading Memory Usage: 10012 KB (Peak: 10012 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 10604 KB (Peak: 10604 KB)
+Simulation CPU Usage: 77 ms
